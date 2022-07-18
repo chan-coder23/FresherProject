@@ -1,0 +1,12 @@
+{
+    "first_name": "Chandan",
+    "last_name": "Kumar",
+    "age": 120,
+    "skills":
+    [
+        {
+            "name": "Hindi",
+            "level": 1
+        }
+    ]
+}
